@@ -15,25 +15,21 @@ The application provides a clean user interface, currency flags, and responsive 
 
 📸 Screenshot
 
-## Screenshot
-
-![Currency Converter Screenshot](./assets/screenshot.jpeg)
+![Currency Converter Preview](./assets/screenshot.jpeg)
 
 
 
 ✨ Features
 
-- Real-time currency conversion using API
+- ⚡ Real-time currency conversion
 
-- Currency selection with country flags
+- 🌍 Country flag display
 
-- Instant currency swap functionality
+- 🔄 Instant currency swap
 
-- Smooth UI animations
+- 📱 Fully responsive design
 
-- Clean and modern user interface
-
-- Fully responsive for mobile, tablet, and desktop
+- 🎨 Smooth UI animations
 
 
 
@@ -49,7 +45,7 @@ The application provides a clean user interface, currency flags, and responsive 
 
 
 
-📂 Project Structure
+## 📂 Project Structure
 Currency-Converter
 │
 ├── index.html
@@ -90,8 +86,14 @@ Currency-Converter
 
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Rohan Figredo
+**Rohan Figredo**
 
 GitHub: https://github.com/Rohan7207
+
+
+
+## ⭐ Support
+
+If you like this project, please give it a **star ⭐ on GitHub**.
