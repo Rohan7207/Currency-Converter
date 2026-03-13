@@ -1,4 +1,4 @@
-💱 Currency Converter
+## 💱 Currency Converter
 
 
 
@@ -7,19 +7,19 @@ The application provides a clean user interface, currency flags, and responsive 
 
 
 
-🌐 Live Demo
+## 🌐 Live Demo
 
 👉 https://rohan7207.github.io/Currency-Converter/
 
 
 
-📸 Screenshot
+## 📸 Screenshot
 
 ![Currency Converter Preview](./assets/screenshot.jpeg)
 
 
 
-✨ Features
+## ✨ Features
 
 - ⚡ Real-time currency conversion
 
@@ -33,7 +33,7 @@ The application provides a clean user interface, currency flags, and responsive 
 
 
 
-⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 - HTML5 – Structure of the application
 
@@ -45,20 +45,7 @@ The application provides a clean user interface, currency flags, and responsive 
 
 
 
-## 📂 Project Structure
-Currency-Converter
-│
-├── index.html
-├── style.css
-├── script.js
-├── codes.js
-├── assets
-│   └── screenshot.png
-└── README.md
-
-
-
-🚀 How It Works
+## 🚀 How It Works
 
 1. Enter the amount to convert.
 
@@ -74,7 +61,7 @@ Currency-Converter
 
 
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 - Search currency by country name
 
