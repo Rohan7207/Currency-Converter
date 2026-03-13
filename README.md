@@ -17,7 +17,7 @@ The application provides a clean user interface, currency flags, and responsive 
 
 ## Screenshot
 
-![Currency Converter Screenshot](./assets/screenshot.png)
+![Currency Converter Screenshot](./assets/screenshot.jpeg)
 
 
 
